@@ -1,3 +1,3 @@
-def characterCounter():
+def character_counter():
     
 }
