@@ -1,3 +1,3 @@
 def character_counter():
-    
+    {
 }
